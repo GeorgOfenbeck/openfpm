@@ -56,7 +56,10 @@
                     "scalameta.metals",
                     "vintharas.learn-vim",
                     "mhutchie.git-graph",
-                    "James-Yu.latex-workshop"
+                    "James-Yu.latex-workshop",
+                    "ms-vscode.makefile-tools",
+                    "GitHub.copilot",
+                    "GitHub.copilot-chat"
             ]
         }
     },
